@@ -1,0 +1,9 @@
+
+.admin .card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+.modal fade .modal-user{
+    width: 112% !important;
+    right: 6% !important;
+}

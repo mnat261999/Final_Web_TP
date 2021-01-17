@@ -1,0 +1,35 @@
+  .l-f-o .btn-group-register,
+  .l-f-o .btn-group-login{
+      display:inline !important;
+  }
+  .l-f-o .btn-reset{
+      padding: 12px 23px !important;
+      color: green !important;
+      border: 2px solid green !important;
+  }
+  .return-store{
+    padding: 0px 20px;
+  }
+  .check_register{
+      margin: 0px 20px !important;
+  }
+  .hero-slide {
+  background: center center/cover no-repeat; }
+  .hero-slide--1 {
+    background-image: url(../img/slider/slide-1.png); }
+  .hero-slide--2 {
+    background-image: url(../img/slider/slide-2.png); }
+  .hero-slide--3 {
+    background-image: url(../img/slider/slide-3.png); }
+  .hero-slide--4 {
+    background-image: url(../img/slider/slide-1.png); }
+  .hero-slide--5 {
+    background-image: url(../img/slider/slide-3.png); }
+  .hero-slide--6 {
+    background-image: url(../img/slider/slide-2.png); }
+  .hero-slide--7 {
+    background-image: url(../img/slider/slide-3.png); }
+  .hero-slide--8 {
+    background-image: url(../img/slider/slide-1.png); }
+  .hero-slide--9 {
+    background-image: url(../img/slider/slide-2.png); }

@@ -1,0 +1,14 @@
+com\mycompany\final_web\entities\Product.class
+com\mycompany\final_web\helper\Helper.class
+com\mycompany\final_web\servlets\ProductOperationServlet.class
+com\mycompany\final_web\servlets\DeleteUserSerVlet.class
+com\mycompany\final_web\servlets\LogoutServlet.class
+com\mycompany\final_web\helper\FactoryProvider.class
+com\mycompany\final_web\servlets\RegisterServlet.class
+com\mycompany\final_web\helper\HibernateUtil.class
+com\mycompany\final_web\entities\Category.class
+com\mycompany\final_web\servlets\LoginServlet.class
+com\mycompany\final_web\entities\User.class
+com\mycompany\final_web\dao\CategoryDao.class
+com\mycompany\final_web\dao\UserDao.class
+com\mycompany\final_web\dao\ProductDao.class
