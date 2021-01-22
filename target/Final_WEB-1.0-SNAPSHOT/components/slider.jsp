@@ -71,9 +71,9 @@
 
                                         <span class="content-span-1 u-c-white">Find Top Brands</span>
 
-                                        <span class="content-span-2 u-c-white">10% Off On Electronics</span>
+                                        <span class="content-span-2 u-c-white">10% Off On Products</span>
 
-                                        <span class="content-span-3 u-c-white">Find electronics on best prices, Also Discover most selling products of electronics</span>
+                                        <span class="content-span-3 u-c-white">We Style Your Pets</span>
 
                                         <span class="content-span-4 u-c-white">Starting At
 

@@ -53,7 +53,7 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="section__text-wrap">
-                                    <h1 class="section__heading u-c-secondary">ALREADY REGISTERED?</h1>
+                                    <h1 class="section__heading u-c-secondary1">ALREADY REGISTERED?</h1>
                                 </div>
                             </div>
                         </div>

@@ -7,6 +7,7 @@ com\mycompany\final_web\helper\FactoryProvider.class
 com\mycompany\final_web\servlets\RegisterServlet.class
 com\mycompany\final_web\helper\HibernateUtil.class
 com\mycompany\final_web\entities\Category.class
+com\mycompany\final_web\servlets\DeleteProductServlet.class
 com\mycompany\final_web\servlets\LoginServlet.class
 com\mycompany\final_web\entities\User.class
 com\mycompany\final_web\dao\CategoryDao.class

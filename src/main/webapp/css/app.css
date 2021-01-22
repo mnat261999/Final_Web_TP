@@ -506,10 +506,10 @@ body {
 .gl-link {
   font-size: 13px;
   font-weight: 600;
-  color: #ff4500;
+  color: #F6AB4A;
   transition: color 0.5s linear; }
   .gl-link:hover {
-    color: #fa4400; }
+    color: #F6AB4A; }
 
 .gl-h1 {
   color: #333333;
@@ -606,22 +606,26 @@ body {
  * Convey meaning through color with a handful of color utility classes.
  * Includes support for styling links too.
  */
+.u-c-secondary1{
+    color: #F6AB4A !important;
+}
 .u-c-brand {
-  color: #ff4500 !important; }
+  color: #F6AB4A !important; }
 
 .u-c-secondary {
-  color: #333333 !important; }
+  color: #ffffff !important; }
 
-
+.u-c-white {
+    color: #ffffff !important;
+}
 
 .u-c-black {
-  color: #000000 !important; }
+  color: #ffffff !important; }
 
-.u-c-grey {
-  color: #7f7f7f !important; }
+
 
 .u-c-silver {
-  color: #a0a0a0 !important; }
+  color: #ffffff !important; }
 
 /*
   * Display Utility
@@ -695,10 +699,10 @@ body {
 .btn--e-brand {
   color: #ffffff;
   border: 1px solid transparent;
-  background-color: #ff4500;
+  background-color: #F6AB4A;
   transition: background-color .5s ease-in; }
   .btn--e-brand:hover {
-    background-color: #fa4400; }
+    background-color: #F6AB4A; }
 
 .btn--e-brand-b-2 {
   color: #ffffff;
@@ -736,12 +740,12 @@ body {
     color: #ffffff; }
 
 .btn--e-transparent-brand-b-2 {
-  color: #ff4500;
-  border: 2px solid #ff4500;
+  color: #F6AB4A;
+  border: 2px solid #F6AB4A;
   background-color: transparent;
   transition: border-color .5s ease-in; }
   .btn--e-transparent-brand-b-2:hover {
-    border-color: #fa4400; }
+    border-color: #F6AB4A; }
 
 .btn--e-transparent-hover-brand-b-2 {
   color: #ff4500;
@@ -780,14 +784,14 @@ body {
     color: #ffffff; }
 
 .btn--e-brand-shadow {
-  border: 1px solid #ff4500;
+  border: 1px solid #F6AB4A;
   box-shadow: 1px 2px 8px 0 rgba(36, 37, 38, 0.08);
-  background-color: #ff4500;
+  background-color: #F6AB4A;
   color: #ffffff;
   transition: background-color .3s linear, border-color .3s linear; }
   .btn--e-brand-shadow:hover {
-    border-color: #fa4400;
-    background-color: #fa4400; }
+    border-color: #F6AB4A;
+    background-color: #F6AB4A; }
 
 /* Countdown Component */
 .countdown--style-special {
@@ -5681,7 +5685,7 @@ input::-ms-clear {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  background-color: #ff4500;
+  background-color: #F6AB4A;
   font-size: 12px;
   font-weight: 600;
   line-height: 34px;
@@ -5828,7 +5832,7 @@ input::-ms-clear {
   border-radius: 50%;
   text-align: center;
   font-size: 11px;
-  background-color: #ff4500;
+  background-color: #F6AB4A;
   color: #ffffff; }
 
 .mini-cart {

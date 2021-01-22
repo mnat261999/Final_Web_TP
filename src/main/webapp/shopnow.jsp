@@ -38,9 +38,9 @@
                 border-radius: 22px;
            }
            .tag-sale{
-                border: 1px solid #ff4500;
+                border: 1px solid #F6AB4A;
                 box-shadow: 1px 2px 8px 0 rgba(36, 37, 38, 0.08);
-                background-color: #ff4500;
+                background-color: #F6AB4A;
                 color: #ffffff;
                 transition: background-color .3s linear, border-color .3s linear;
            }

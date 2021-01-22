@@ -56,7 +56,6 @@
                                                 %>
                                                 <a href="<%= user1.getUserType().equals("admin")?"admin.jsp":"normal.jsp" %>"><i class="far fa-user-circle"></i><span style="margin-left:3px;"><%= user1.getUserName()%></span></a>
                                                 <%
-
                                             }
                                         %>
                                         
